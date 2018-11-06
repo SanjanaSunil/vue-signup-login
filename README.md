@@ -1,26 +1,9 @@
-# form
+# Vue form for login and registration
 
 ## Project setup
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Install Bootstrap
-```
-npm install bootstrap --save
-```
+Visit http://localhost:8080/
