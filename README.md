@@ -1,5 +1,7 @@
 # Vue form for login and registration
 
+![Vue form](./public/vue-signup-login.png?raw=true "Output")
+
 ## Project setup
 ```
 npm install
